@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Phone App</string>
+    <string name="email"><u>john_doe@gmail.com</u></string>
+
+    <string-array name="names">
+        <item> Jamal Hill</item>
+        <item> Ed Mathews</item>
+        <item> Madeline Smith</item>
+        <item> Oliver Queen</item>
+        <item> Rick Sanchez</item>
+        <item> Ibrahim Ahmed</item>
+        <item> Alfred Nottingham</item>
+        <item> Tekashi Mellow</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>07923 842109</item>
+        <item>07953 380124</item>
+        <item>07323 901348</item>
+        <item>555 423 5125</item>
+        <item>02084 532525</item>
+        <item>07666 049055</item>
+        <item>555 6355 4590</item>
+        <item>07923 842109</item>
+    </string-array>
+
+    <string-array name="emails">
+        <item><u>Jamal_Hill@outlook.co.uk</u></item>
+        <item><u>Ed_Mathews@yahoo.com</u></item>
+        <item><u>Madeline_Smith12@gmail.com</u></item>
+        <item><u>Oliver_Queen@queencorp.com</u></item>
+        <item><u>Rick_Sanchez@rickroll.com</u></item>
+        <item><u>Ibrahim_Ahmed@uwl.ac.uk</u></item>
+        <item><u>Alfred_N@waynecorp.com</u></item>
+        <item><u>Tekashi_Mellow@gmail.com</u></item>
+    </string-array>
+
+    <string name = "code"></string>
+</resources>
